@@ -1,0 +1,5 @@
+Jackson,	p@ssw0rd1	developer	loves Jefferson Starship
+Kyle,	p@ssw0rd2	manager	likes fish
+Kirsten,	p@ssw0rd3	scientist	loves Korn
+Monica,	p@ssw0rd4	store owner	loves Phill Collins
+Lockey,	p@ssw0rd5	dog	loves bones
